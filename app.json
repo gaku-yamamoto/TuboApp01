@@ -3,6 +3,7 @@
     "name": "TuboApp01",
     "slug": "TuboApp01",
     "version": "1.0.0",
+    "privacy": "unlisted",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "splash": {
